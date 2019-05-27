@@ -2,7 +2,7 @@
 Basic CRUD App with JPA + Hibernate + MySQL in Spring Boot
 
 **Description**
-This project is a restful API with Spring Boot and MySQL. Created all the Front end with ReactJs amd Material UI. Consume the Spring Boot API with Axios. Finally handle the state management with Redux. You can find the front end app here .... 
+This project is a restful API with Spring Boot and MySQL. Created all the Front end with ReactJs and Material UI. Consume the Spring Boot API with Axios. Finally handle the state management with Redux. You can find the front end app here .... `Coming soon!`
 
 **Endpoints**
 
