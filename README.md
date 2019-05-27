@@ -2,7 +2,7 @@
 Basic CRUD App with JPA + Hibernate + MySQL in Spring Boot
 
 **Description**
-This project is built basically to serve as the backend for a ReactJs church management app. 
+This project is a restful API with Spring Boot and MySQL. Created all the Front end with ReactJs amd Material UI. Consume the Spring Boot API with Axios. Finally handle the state management with Redux. You can find the front end app here .... 
 
 **Endpoints**
 
